@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rory_Bester
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning unity and unreal engine python and c#
-- 💞️ I’m looking to collaborate on student projects
+- 🌱 I’m currently learning ways to better my understanding of CSS HTML5 Java script 
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rory.bester@yahoo.com
 
 <!---
